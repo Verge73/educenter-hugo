@@ -87,7 +87,7 @@ success_story:
   video_link: https://www.youtube.com/watch?v=ResipmZmpDU
 event:
   enable: true
-  title: Upcoming Events
+  title: Live seminars
 funfacts:
   enable: true
   funfact_item:
