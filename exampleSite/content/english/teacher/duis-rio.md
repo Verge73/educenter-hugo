@@ -20,9 +20,9 @@ contact:
 - name: Clark Malik
   icon: ti-facebook
   link: "#"
-- name: clarkmalik.com
+- name: Sign up for a lesson
   icon: ti-world
-  link: "#"
+  link: https://tutorify.netlify.app/notice/
 - name: Aleja Ujazdowska 14, Warsaw
   icon: ti-location-pin
   link: "#"
