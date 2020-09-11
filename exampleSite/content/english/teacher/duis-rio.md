@@ -1,7 +1,7 @@
 ---
 title: Duis Rio 40 PLN/h
 bg_image: images/backgrounds/page-title.jpg
-description: You've found a real gem! Duis is real PRO, and his average rating of
+description: You've found a real gem! Duis is a real PRO, and his average rating of
   4.8 only confirms that! Duis' Masters' Degree has been verified by Tutorify.
 image: "/images/teacher-3.png"
 course: Vlogging
