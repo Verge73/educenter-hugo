@@ -92,13 +92,25 @@ funfacts:
   enable: true
   funfact_item:
   - name: TEACHERS
-    count: "60"
+    count: '60'
   - name: COURSES
-    count: "50"
+    count: '50'
   - name: STUDENTS
-    count: "1000"
+    count: '1000'
   - name: SATISFIED CLIENT
-    count: "1400"
+    count: '1400'
 blog:
   enable: true
   title: Perfect your lessons
+type: course
+title: ''
+date: 
+bg_image: ''
+description: ''
+image: ''
+category: ''
+teacher: ''
+duration: ''
+weekly: ''
+fee: ''
+apply_url: ''
