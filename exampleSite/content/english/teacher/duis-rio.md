@@ -4,7 +4,7 @@ bg_image: images/backgrounds/page-title.jpg
 description: You've found a real gem! Duis is real PRO, and his average rating of
   4.8 only confirms that! Duis' Masters' Degree has been verified by Tutorify.
 image: "/images/teacher-3.png"
-course: Photography    Vlogging    YouTube marketing
+course: Vlogging
 bio: Master of Cinematography. Degree verified
 interest:
 - Personal growth
