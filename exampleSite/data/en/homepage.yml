@@ -39,15 +39,15 @@ banner_feature:
     icon: ti-book
     content: Tired of juggling Zooms, Google Drives, Skypes and so on? Everything
       you need is right here - in one place. Did I mention we're free yet?
-  - name: You'll find what you need
+  - name: Exactly what you're looking for
     icon: ti-blackboard
     content: Over 1 000 categories and 250 000 teachers. No need to write to Tutors
       directly - tags and filters will help you find exactly what you're looking for
       without spending more time than you need.
-  - name: Our Achievements
+  - name: Swift and simple
     icon: ti-agenda
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: On average, students find their Tutor within 86 minutes of platform use.
+      25% do it in less than 40 minutes!
   - name: Admission Now
     icon: ti-write
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
