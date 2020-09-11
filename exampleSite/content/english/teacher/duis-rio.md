@@ -31,3 +31,11 @@ contact:
 ### About Me
 
 Having graduated with highest honors from the Frankfurt School of Cinematography, I started my own business where I share my knowledge and passion for cinematography with others. I am driven, knowledgeable and, above all, driven :). My students have all reported that within first two hours of our lessons together, they've considerably improved their technique, which translated into greatly increased viewership on YouTube. You, too, can become Casey Neistat!
+
+### Pricing
+
+**1 person** - 40 PLN/h
+
+**2 persons** - 70 PLN/h
+
+**3 persons** 65 PLN/h
