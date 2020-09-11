@@ -1,9 +1,8 @@
 ---
 title: Duis Rio 40 PLN/h
 bg_image: images/backgrounds/page-title.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+description: You've found a real gem! Duis is real PRO, and his average rating of
+  4.8 only confirms that! Duis' Masters' Degree has been verified by Tutorify.
 image: "/images/teacher-3.png"
 course: Photography, Vlogging, YouTube marketing
 bio: Having graduated with highest honors from the Frankfurt School of Cinematography,
@@ -36,9 +35,4 @@ contact:
 ---
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
-
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.
+Having graduated with highest honors from the Frankfurt School of Cinematography, I started my own business where I share my knowledge and passion for cinematography with others. I am driven, knowledgeable and, above all, driven :). My students have all reported that within first two hours of our lessons together, they've considerably improved their technique, which translated into greatly increased viewership on YouTube. You, too, can become Casey Neistat!
