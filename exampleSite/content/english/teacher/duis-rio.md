@@ -5,7 +5,9 @@ description: You've found a real gem! Duis is a real PRO, and his average rating
   4.8 only confirms that! Duis' Masters' Degree has been verified by Tutorify.
 image: "/images/teacher-3.png"
 course: Vlogging
-bio: Master of Cinematography. Degree verified
+bio: |-
+  Master of Cinematography. Degree verified.
+  Response time 7h.
 interest:
 - Personal growth
 - Philosophy
@@ -38,4 +40,26 @@ Having graduated with highest honors from the Frankfurt School of Cinematography
 
 **2 persons** - 70 PLN/h
 
-**3 persons** 65 PLN/h
+**3 persons** - 65 PLN/h
+
+**5 lessons** - 8% discount
+
+**10 lessons** - 15% discount
+
+### Levels
+
+Beginner
+
+Advanced
+
+Intermediate
+
+Expert
+
+### Lessons can take place
+
+At your home
+
+At the Tutor's home
+
+Online
