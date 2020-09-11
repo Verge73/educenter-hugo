@@ -3,7 +3,6 @@ bg_image = "images/backgrounds/page-title.jpg"
 date = 2019-09-20T09:27:17Z
 description = ""
 download_link = "https://awwapp.com/#"
-draft = true
 title = "Vlogging with Duis 40 PLN/h-(copy)"
 
 +++
