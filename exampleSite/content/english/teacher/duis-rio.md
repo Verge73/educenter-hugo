@@ -4,15 +4,18 @@ bg_image: images/backgrounds/page-title.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
-image: images/teachers/teacher-3.jpg
-course: Photography
-bio: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur
-  ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio,
-  culpa aspernatur. Error placeat iusto officia voluptas quae.
+image: "/images/teacher-3.png"
+course: Photography, Vlogging, YouTube marketing
+bio: Having graduated with highest honors from the Frankfurt School of Cinematography,
+  I started my own business where I share my knowledge and passion for cinematography
+  with others. I am driven, knowledgeable and, above all, driven :). My students have
+  all reported that within first two hours of our lessons together, they've considerably
+  improved their technique, which translated into greatly increased viewership on
+  YouTube. You, too, can become Casey Neistat!
 interest:
-- Computer Networking
-- Computer Security
-- Human Computer Interfacing
+- Personal growth
+- Philosophy
+- Cinematography
 contact:
 - name: clarkmalik@email.com
   icon: ti-email
@@ -23,16 +26,10 @@ contact:
 - name: Clark Malik
   icon: ti-facebook
   link: "#"
-- name: Clark Malik
-  icon: ti-twitter-alt
-  link: "#"
-- name: Clark Malik
-  icon: ti-skype
-  link: "#"
 - name: clarkmalik.com
   icon: ti-world
   link: "#"
-- name: 1313 Boulevard Cremazie,Quebec
+- name: Aleja Ujazdowska 14, Warsaw
   icon: ti-location-pin
   link: "#"
 
