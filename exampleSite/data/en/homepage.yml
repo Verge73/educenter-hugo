@@ -48,10 +48,11 @@ banner_feature:
     icon: ti-agenda
     content: On average, students find their Tutor within 86 minutes of platform use.
       25% do it in less than 40 minutes!
-  - name: Admission Now
+  - name: Social anxiety? We've got you
     icon: ti-write
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: 'Our automated form limits direct contact to a bare minimum. If that
+      doesn''t do the trick, there are also over 134 000 online courses to complete
+      on your own. '
 about:
   enable: true
   title: About Educenter
