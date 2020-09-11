@@ -73,7 +73,7 @@ cta:
   title: 40 PLN
   button:
     enable: true
-    label: join now
+    label: Sign up
     link: contact
 success_story:
   enable: true
