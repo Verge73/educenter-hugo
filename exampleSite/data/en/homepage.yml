@@ -69,8 +69,8 @@ course:
   title: Recommended courses
 cta:
   enable: true
-  subtitle: Click to Join the Advance Workshop
-  title: Training In Advannce Networking
+  subtitle: The average price for 60 minutes of tutoring is
+  title: 40 PLN
   button:
     enable: true
     label: join now
