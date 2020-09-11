@@ -6,7 +6,9 @@ download_link = "https://awwapp.com/#"
 title = "Vlogging with Duis 40 PLN/h"
 
 +++
-![](/images/teacher-3.png)Prepare yourself for your lesson with Duis! Check out what resources he's shared with you or what courses you can find on Duis' profile.
+![](/images/teacher-3.png)
+
+Prepare yourself for your lesson with Duis! Check out what resources he's shared with you or what courses you can find on Duis' profile.
 
 ### Planned lessons
 
