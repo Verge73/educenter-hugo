@@ -14,3 +14,4 @@ fee: 'From: $699'
 apply_url: "#"
 
 ---
+About course
